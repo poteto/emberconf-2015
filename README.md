@@ -13,6 +13,10 @@ A collection of links that cover what happened during EmberConf 2015.
 - [Afternoon](http://viewer.cloudhdr.com/galleries/f6550716-c1f3-11e4-8182-4a1a5c3c150e/gallery-members)
 - [@ladyleet](https://t.co/5veH5n6wIZ)
 
+### Stuff from the speakers
+- [Demo of Glimmer in action by @wycats](https://dbmonster.firebaseapp.com/)
+- [HNReader by @chancancode](chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
+
 ## Day 2
 
 ### Live Blogs
@@ -22,6 +26,9 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Photos
 - [Morning](http://viewer.cloudhdr.com/galleries/d4871a76-c297-11e4-8ed8-42a038609133/gallery-members)
 - Afternoon
+
+### Stuff from the speakers
+- [Ember community survey 2015](http://www.201-created.com/ember-community-survey-2015)
 
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
