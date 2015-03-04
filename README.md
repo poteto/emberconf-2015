@@ -49,6 +49,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - [Ember-orbit by @dgeb](https://github.com/orbitjs/ember-orbit)
 - [Ember community survey 2015 by @mixonic](http://www.201-created.com/ember-community-survey-2015)
 - [Mobile Animations and Gestures demo app by @blangslet](https://github.com/blangslet/ember.js-mobile-animations-gestures)
+- [treasure-hunt by @dgeb](https://github.com/blangslet/treasure-hunt)
 - [ember-cli-fxos by @brittanystoroz](https://github.com/mozilla/ember-cli-fxos)
 
 ## Pull Requests
