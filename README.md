@@ -38,6 +38,7 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Stuff from the speakers
 - [Ember-orbit by @dgeb](https://github.com/orbitjs/ember-orbit)
 - [Ember community survey 2015](http://www.201-created.com/ember-community-survey-2015)
+- [Mobile Animations and Gestures demo app by @blangslet](https://github.com/blangslet/ember.js-mobile-animations-gestures)
 
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
