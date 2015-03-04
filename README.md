@@ -7,6 +7,7 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Live Blogs
 - [DockYard](http://reefpoints.dockyard.com/2015/03/03/ember-conf.html)
 - [Pixelhandler](http://pixelhandler.com/posts/emberconf-2015-day-1)
+- [John Otander](http://johnotander.com/emberconf2015-notes/)
 
 ### Photos
 - [Morning](http://viewer.cloudhdr.com/galleries/30fb94f4-c1d4-11e4-a2bc-4a1a5c3c150e/gallery-members)
@@ -15,6 +16,8 @@ A collection of links that cover what happened during EmberConf 2015.
 
 ### Stuff from the speakers
 - [Demo of Glimmer in action by @wycats](https://dbmonster.firebaseapp.com/)
+- [Is Ember fast yet?](https://is-ember-fast-yet.firebaseapp.com/)
+- [DockYard's Tools of the Trade](http://toolsofthetrade.dockyard.com/)
 - [ember-cli-deploy by @lukemelia](https://github.com/ember-cli/ember-cli-deploy)
 - [HNReader by @chancancode](chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
 - [The Art of Ember Deployment by @lukemelia](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
