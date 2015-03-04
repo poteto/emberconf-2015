@@ -15,13 +15,17 @@ A collection of links that cover what happened during EmberConf 2015.
 - [@ladyleet](https://www.dropbox.com/sh/x73xg5jffuvyosm/AADDWXcLZSdfOsxA266jZFXua?dl=0)
 
 ### Stuff from the speakers
+
+#### Slides
+- [The Art of Ember Deployment by @lukemelia](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
+- [Ambitious UX for Ambitious Apps by @sugarpirate_](https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps)
+
+#### Code
 - [Demo of Glimmer in action by @wycats](https://dbmonster.firebaseapp.com/) ([Github](https://github.com/emberjs/ember.js/pull/10501))
 - [Is Ember fast yet?](https://is-ember-fast-yet.firebaseapp.com/)
 - [DockYard's Tools of the Trade](http://toolsofthetrade.dockyard.com/)
 - [ember-cli-deploy by @lukemelia](https://github.com/ember-cli/ember-cli-deploy)
 - [HNReader by @chancancode](chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
-- [The Art of Ember Deployment by @lukemelia](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
-- [Ambitious UX for Ambitious Apps by @sugarpirate_](https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps)
 - [ember-cli-flash by @sugarpirate_](https://github.com/poteto/ember-cli-flash)
 - [Composing graphics by @cwhnn](https://github.com/chnn/composing-graphics)
 
@@ -36,6 +40,11 @@ A collection of links that cover what happened during EmberConf 2015.
 - Afternoon
 
 ### Stuff from the speakers
+
+#### Slides
+- [Fault tolerant UX by @degb](https://t.co/4Uw2TAgVFX)
+
+#### Code
 - [Ember-orbit by @dgeb](https://github.com/orbitjs/ember-orbit)
 - [Ember community survey 2015](http://www.201-created.com/ember-community-survey-2015)
 - [Mobile Animations and Gestures demo app by @blangslet](https://github.com/blangslet/ember.js-mobile-animations-gestures)
