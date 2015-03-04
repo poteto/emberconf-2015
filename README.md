@@ -37,7 +37,7 @@ A collection of links that cover what happened during EmberConf 2015.
 
 ### Photos
 - [Morning](http://viewer.cloudhdr.com/galleries/d4871a76-c297-11e4-8ed8-42a038609133/gallery-members)
-- Afternoon
+- [Afternoon](http://viewer.cloudhdr.com/galleries/e10f78c4-c2bf-11e4-b10d-42a038609133/gallery-members)
 
 ### Stuff from the speakers
 
