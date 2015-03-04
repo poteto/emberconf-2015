@@ -11,11 +11,15 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Photos
 - [Morning](http://viewer.cloudhdr.com/galleries/30fb94f4-c1d4-11e4-a2bc-4a1a5c3c150e/gallery-members)
 - [Afternoon](http://viewer.cloudhdr.com/galleries/f6550716-c1f3-11e4-8182-4a1a5c3c150e/gallery-members)
-- [@ladyleet](https://t.co/5veH5n6wIZ)
+- [@ladyleet](https://www.dropbox.com/sh/x73xg5jffuvyosm/AADDWXcLZSdfOsxA266jZFXua?dl=0)
 
 ### Stuff from the speakers
 - [Demo of Glimmer in action by @wycats](https://dbmonster.firebaseapp.com/)
+- [ember-cli-deploy by @lukemelia](https://github.com/ember-cli/ember-cli-deploy)
 - [HNReader by @chancancode](chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
+- [The Art of Ember Deployment](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
+- [Ambitious UX for Ambitious Apps](https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps)
+- [Composing graphics by @cwhnn](https://github.com/chnn/composing-graphics)
 
 ## Day 2
 
@@ -28,6 +32,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - Afternoon
 
 ### Stuff from the speakers
+- [Ember-orbit by @dgeb](https://github.com/orbitjs/ember-orbit)
 - [Ember community survey 2015](http://www.201-created.com/ember-community-survey-2015)
 
 ## Pull Requests
