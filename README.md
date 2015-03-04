@@ -17,8 +17,9 @@ A collection of links that cover what happened during EmberConf 2015.
 - [Demo of Glimmer in action by @wycats](https://dbmonster.firebaseapp.com/)
 - [ember-cli-deploy by @lukemelia](https://github.com/ember-cli/ember-cli-deploy)
 - [HNReader by @chancancode](chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
-- [The Art of Ember Deployment](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
-- [Ambitious UX for Ambitious Apps](https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps)
+- [The Art of Ember Deployment by @lukemelia](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
+- [Ambitious UX for Ambitious Apps by @sugarpirate_](https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps)
+- [ember-cli-flash by @sugarpirate_](https://github.com/poteto/ember-cli-flash)
 - [Composing graphics by @cwhnn](https://github.com/chnn/composing-graphics)
 
 ## Day 2
