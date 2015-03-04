@@ -15,7 +15,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - [@ladyleet](https://www.dropbox.com/sh/x73xg5jffuvyosm/AADDWXcLZSdfOsxA266jZFXua?dl=0)
 
 ### Stuff from the speakers
-- [Demo of Glimmer in action by @wycats](https://dbmonster.firebaseapp.com/)
+- [Demo of Glimmer in action by @wycats](https://dbmonster.firebaseapp.com/) ([Github](https://github.com/emberjs/ember.js/pull/10501))
 - [Is Ember fast yet?](https://is-ember-fast-yet.firebaseapp.com/)
 - [DockYard's Tools of the Trade](http://toolsofthetrade.dockyard.com/)
 - [ember-cli-deploy by @lukemelia](https://github.com/ember-cli/ember-cli-deploy)
