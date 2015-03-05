@@ -25,7 +25,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - [Is Ember fast yet?](https://is-ember-fast-yet.firebaseapp.com/)
 - [DockYard's Tools of the Trade](http://toolsofthetrade.dockyard.com/)
 - [ember-cli-deploy by @lukemelia](https://github.com/ember-cli/ember-cli-deploy)
-- [HNReader by @chancancode](chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
+- [HNReader by @chancancode](http://chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
 - [ember-cli-flash by @sugarpirate_](https://github.com/poteto/ember-cli-flash)
 - [Composing graphics by @cwhnn](https://github.com/chnn/composing-graphics)
 
