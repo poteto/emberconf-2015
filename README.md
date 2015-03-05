@@ -68,6 +68,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - [Event Driven by @wifelette](https://leanpub.com/eventdriven/)
 
 #### Closing keynote
+- [Slides by @chriseppstein](http://www.slideshare.net/chriseppstein/ember-closing-keynote)
 - [sass-eyeglass by @chriseppstein](https://github.com/sass-eyeglass/eyeglass)
 
 ## Pull Requests
