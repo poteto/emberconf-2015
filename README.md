@@ -54,5 +54,8 @@ A collection of links that cover what happened during EmberConf 2015.
 - [emberconf-chat by @stevekinney](https://github.com/stevekinney/emberconf-chat)
 - [emberconf-twitter-stream by @stevekinney](https://github.com/stevekinney/emberconf-twitter-stream)
 
+#### Lightning Talks
+- [ember performance by @pixelhandler](https://github.com/pixelhandler/ember-slide-deck)
+
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
