@@ -54,7 +54,8 @@ A collection of links that cover what happened during EmberConf 2015.
 - [ember-cli-fxos by @brittanystoroz](https://github.com/mozilla/ember-cli-fxos)
 - [emberconf-chat by @stevekinney](https://github.com/stevekinney/emberconf-chat)
 - [emberconf-twitter-stream by @stevekinney](https://github.com/stevekinney/emberconf-twitter-stream)
-- [ember liquid-fire](https://github.com/ef4/liquid-fire)
+- [ember liquid-fire by @ef4](https://github.com/ef4/liquid-fire)
+- [physical design demo by @ef4](https://github.com/ef4/physical-design-demo)
 
 #### Lightning Talks
 - [ember performance by @pixelhandler](https://github.com/pixelhandler/ember-slide-deck)
