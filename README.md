@@ -64,5 +64,8 @@ A collection of links that cover what happened during EmberConf 2015.
 - [ember-observer by @katiegengler](http://emberobserver.com/) ([Github](https://github.com/emberobserver/client))
 - [ember-component-css by @ebryn](https://github.com/ebryn/ember-component-css)
 
+#### Books
+- [Event Driven by @wifelette](https://leanpub.com/eventdriven/)
+
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
