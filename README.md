@@ -57,6 +57,7 @@ A collection of links that cover what happened during EmberConf 2015.
 #### Lightning Talks
 - [ember performance by @pixelhandler](https://github.com/pixelhandler/ember-slide-deck)
 - [ember-islands by @mitchlloyd](https://github.com/mitchlloyd/ember-islands)
+- [ember-emscripten by @movableink](https://github.com/movableink/ember-cli-emscripten)
 
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
