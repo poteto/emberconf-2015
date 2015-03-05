@@ -42,8 +42,9 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Stuff from the speakers
 
 #### Slides
-- [Fault tolerant UX by @degb](https://t.co/4Uw2TAgVFX)
+- [Fault tolerant UX by @dgeb](https://t.co/4Uw2TAgVFX)
 - [Building Applications for Custom Environments with Ember CLI by @brittanystoroz](http://brittanystoroz.github.io/presentations/embercli-fxos/)
+- [Growing Ember, One Tomster at a Time by @jgwhite](https://speakerdeck.com/jgwhite/growing-ember-one-tomster-at-a-time)
 
 #### Code
 - [Ember-orbit by @dgeb](https://github.com/orbitjs/ember-orbit)
