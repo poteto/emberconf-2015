@@ -60,7 +60,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - [ember-islands by @mitchlloyd](https://github.com/mitchlloyd/ember-islands)
 - [ember-emscripten by @movableink](https://github.com/movableink/ember-cli-emscripten)
 - [ember-observer by @katiegengler](http://emberobserver.com/) ([Github](https://github.com/emberobserver/client))
-- [ember-component-css by @ebryn](https://www.npmjs.com/package/ember-component-css)
+- [ember-component-css by @ebryn](https://github.com/ebryn/ember-component-css)
 
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
