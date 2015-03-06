@@ -19,7 +19,7 @@ A collection of links that cover what happened during EmberConf 2015.
 #### Slides
 - [The Art of Ember Deployment by @lukemelia](https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment)
 - [Ambitious UX for Ambitious Apps by @sugarpirate_](https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps)
-- [Bring Sanity to your Frontend Infastructure with EmberJS by @samselikoff](http://www.slideshare.net/samselikoff/frontend-infrastructure)
+- [Bring Sanity to your Frontend Infrastructure with EmberJS by @samselikoff](http://www.slideshare.net/samselikoff/frontend-infrastructure)
 
 #### Code
 - [Demo of Glimmer in action by @wycats & @tomdale](https://dbmonster.firebaseapp.com/) ([Github](https://github.com/emberjs/ember.js/pull/10501))
