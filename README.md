@@ -70,5 +70,8 @@ A collection of links that cover what happened during EmberConf 2015.
 #### Books
 - [Event Driven by @wifelette](https://leanpub.com/eventdriven/)
 
+#### Videos
+- [physical design demo by @ef4](https://www.youtube.com/watch?v=WZmZYLQ96r4)
+
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
