@@ -12,7 +12,7 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Photos
 - [Morning](http://viewer.cloudhdr.com/galleries/30fb94f4-c1d4-11e4-a2bc-4a1a5c3c150e/gallery-members)
 - [Afternoon](http://viewer.cloudhdr.com/galleries/f6550716-c1f3-11e4-8182-4a1a5c3c150e/gallery-members)
-- [@ladyleet](https://www.dropbox.com/sh/x73xg5jffuvyosm/AADDWXcLZSdfOsxA266jZFXua?dl=0)
+- [Photos by @ladyleet](https://www.dropbox.com/sh/x73xg5jffuvyosm/AADDWXcLZSdfOsxA266jZFXua?dl=0)
 
 ### Stuff from the speakers
 
@@ -21,9 +21,9 @@ A collection of links that cover what happened during EmberConf 2015.
 - [Ambitious UX for Ambitious Apps by @sugarpirate_](https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps)
 
 #### Code
-- [Demo of Glimmer in action by @wycats](https://dbmonster.firebaseapp.com/) ([Github](https://github.com/emberjs/ember.js/pull/10501))
-- [Is Ember fast yet?](https://is-ember-fast-yet.firebaseapp.com/)
-- [DockYard's Tools of the Trade](http://toolsofthetrade.dockyard.com/)
+- [Demo of Glimmer in action by @wycats & @tomdale](https://dbmonster.firebaseapp.com/) ([Github](https://github.com/emberjs/ember.js/pull/10501))
+- [Is Ember fast yet? by @wycats & @tomdale](https://is-ember-fast-yet.firebaseapp.com/)
+- [DockYard's Tools of the Trade by @strevat](http://toolsofthetrade.dockyard.com/)
 - [ember-cli-deploy by @lukemelia](https://github.com/ember-cli/ember-cli-deploy)
 - [HNReader by @chancancode](http://chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
 - [ember-cli-flash by @sugarpirate_](https://github.com/poteto/ember-cli-flash)
@@ -42,12 +42,13 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Stuff from the speakers
 
 #### Slides
-- [Fault tolerant UX by @dgeb](https://t.co/4Uw2TAgVFX)
+- [Fault tolerant UX by @dgeb](https://speakerdeck.com/dgeb/fault-tolerant-ux)
 - [Building Applications for Custom Environments with Ember CLI by @brittanystoroz](http://brittanystoroz.github.io/presentations/embercli-fxos/)
 - [Growing Ember, One Tomster at a Time by @jgwhite](https://speakerdeck.com/jgwhite/growing-ember-one-tomster-at-a-time)
+- [Closing Keynote by @chriseppstein](http://www.slideshare.net/chriseppstein/ember-closing-keynote)
 
 #### Code
-- [Ember-orbit by @dgeb](https://github.com/orbitjs/ember-orbit)
+- [ember-orbit by @dgeb](https://github.com/orbitjs/ember-orbit)
 - [Ember community survey 2015 by @mixonic](http://www.201-created.com/ember-community-survey-2015)
 - [Mobile Animations and Gestures demo app by @blangslet](https://github.com/blangslet/ember.js-mobile-animations-gestures)
 - [treasure-hunt by @blangslet](https://github.com/blangslet/treasure-hunt)
@@ -56,6 +57,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - [emberconf-twitter-stream by @stevekinney](https://github.com/stevekinney/emberconf-twitter-stream)
 - [ember liquid-fire by @ef4](https://github.com/ef4/liquid-fire)
 - [physical design demo by @ef4](https://github.com/ef4/physical-design-demo)
+- [sass-eyeglass by @chriseppstein](https://github.com/sass-eyeglass/eyeglass)
 
 #### Lightning Talks
 - [ember performance by @pixelhandler](https://github.com/pixelhandler/ember-slide-deck)
@@ -66,10 +68,6 @@ A collection of links that cover what happened during EmberConf 2015.
 
 #### Books
 - [Event Driven by @wifelette](https://leanpub.com/eventdriven/)
-
-#### Closing keynote
-- [Slides by @chriseppstein](http://www.slideshare.net/chriseppstein/ember-closing-keynote)
-- [sass-eyeglass by @chriseppstein](https://github.com/sass-eyeglass/eyeglass)
 
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
