@@ -2,6 +2,8 @@
 
 A collection of links that cover what happened during EmberConf 2015.
 
+[Official conference videos](http://confreaks.tv/events/emberconf2015) aren't available just yet, but keep checking and they'll be released soon enough!
+
 ## Day 1
 
 ### Live Blogs
