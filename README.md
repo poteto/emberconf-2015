@@ -75,5 +75,8 @@ A collection of links that cover what happened during EmberConf 2015.
 #### Videos
 - [physical design demo by @ef4](https://www.youtube.com/watch?v=WZmZYLQ96r4)
 
+## Other compilations
+- [EmberConf 2015 notes by @zurt](https://github.com/zurt/notes/blob/master/EmberConf-2015.markdown)
+
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
