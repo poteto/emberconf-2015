@@ -44,6 +44,8 @@ A collection of links that cover what happened during EmberConf 2015.
 
 #### Slides
 - [Fault tolerant UX by @dgeb](https://speakerdeck.com/dgeb/fault-tolerant-ux)
+- [Aligning Ember.js with Web Standards by @mixonic](http://madhatted.com/2015/3/6/aligning-ember-js-with-web-standards-emberconf-2015)
+- [Interaction Design with Ember 2.0 and Polymer](https://speakerdeck.com/blangslet/interaction-design-with-ember-2-dot-0-and-polymer)
 - [Building Applications for Custom Environments with Ember CLI by @brittanystoroz](http://brittanystoroz.github.io/presentations/embercli-fxos/)
 - [Growing Ember, One Tomster at a Time by @jgwhite](https://speakerdeck.com/jgwhite/growing-ember-one-tomster-at-a-time)
 - [Closing Keynote by @chriseppstein](http://www.slideshare.net/chriseppstein/ember-closing-keynote)
