@@ -2,9 +2,6 @@
 
 A collection of links that cover what happened during EmberConf 2015.
 
-- [Youtube playlist for official conference videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU)
-- [Confreaks](http://confreaks.tv/events/emberconf2015)
-
 ## Day 1
 
 ### Live Blogs
@@ -169,6 +166,13 @@ A collection of links that cover what happened during EmberConf 2015.
 - Code:
   - [sass-eyeglass](https://github.com/sass-eyeglass/eyeglass)
 - Blogposts: None
+
+## Official video playlists
+- [Youtube playlist for official conference videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU)
+- [Confreaks](http://confreaks.tv/events/emberconf2015)
+
+## Podcasts
+- [EmberConf Recap by ember.land](http://ember.land/episodes/4)
 
 ## Other
 - [EmberConf 2015 notes by @zurt](https://github.com/zurt/notes/blob/master/EmberConf-2015.markdown)
