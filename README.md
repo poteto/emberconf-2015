@@ -2,7 +2,8 @@
 
 A collection of links that cover what happened during EmberConf 2015.
 
-[Official conference videos](http://confreaks.tv/events/emberconf2015) aren't available just yet, but keep checking and they'll be released soon enough!
+- [Youtube playlist for official conference videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU)
+- [Confreaks](http://confreaks.tv/events/emberconf2015)
 
 ## Day 1
 
@@ -89,6 +90,7 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Live Blogs
 - [DockYard](http://reefpoints.dockyard.com/2015/03/04/ember-conf.html)
 - [Pixelhandler](http://pixelhandler.com/posts/emberconf-2015-day-2)
+- [John Otander](http://johnotander.com/emberconf2015-notes/)
 
 ### Photos
 - [Morning](http://viewer.cloudhdr.com/galleries/d4871a76-c297-11e4-8ed8-42a038609133/gallery-members)
