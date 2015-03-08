@@ -10,9 +10,9 @@ A collection of links that cover what happened during EmberConf 2015.
 - [John Otander](http://johnotander.com/emberconf2015-notes/)
 
 ### Photos
-- [Morning](http://viewer.cloudhdr.com/galleries/30fb94f4-c1d4-11e4-a2bc-4a1a5c3c150e/gallery-members)
-- [Afternoon](http://viewer.cloudhdr.com/galleries/f6550716-c1f3-11e4-8182-4a1a5c3c150e/gallery-members)
-- [Photos by @ladyleet](https://www.dropbox.com/sh/x73xg5jffuvyosm/AADDWXcLZSdfOsxA266jZFXua?dl=0)
+- [Morning photos](http://viewer.cloudhdr.com/galleries/30fb94f4-c1d4-11e4-a2bc-4a1a5c3c150e/gallery-members) by [Jeremy Green](https://twitter.com/jagthedrummer)
+- [Afternoon photos](http://viewer.cloudhdr.com/galleries/f6550716-c1f3-11e4-8182-4a1a5c3c150e/gallery-members) by [Jeremy Green](https://twitter.com/jagthedrummer)
+- [All day photos](https://www.dropbox.com/sh/x73xg5jffuvyosm/AADDWXcLZSdfOsxA266jZFXua?dl=0) by [Tracy Lee](https://twitter.com/ladyleet)
 
 ### Talks
 
@@ -71,7 +71,7 @@ A collection of links that cover what happened during EmberConf 2015.
 
 #### Dynamic Graph Composition in Ember by [Chris Henn](http://www.twitter.com/cwhnn) (Github: @chnn)
 - Video: TBC
-- Slides: TBC
+- Slides: https://speakerdeck.com/chnn/composing-data-visualizations-in-ember
 - Code:
   - [Composing graphics](https://github.com/chnn/composing-graphics)
 - Blogposts: None
@@ -101,7 +101,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - Code:
   - [orbitjs](https://github.com/orbitjs/orbit.js)
   - [ember-orbit](https://github.com/orbitjs/ember-orbit)
-  - Blogposts: None
+- Blogposts: None
 
 #### Aligning Ember with Web Standards by [Matthew Beale](http://www.twitter.com/mixonic) (Github: @mixonic)
 - Video: TBC
@@ -144,11 +144,11 @@ A collection of links that cover what happened during EmberConf 2015.
 - Video: TBC
 - Slides: TBC
 - Code: TBC
-  - [ember performance by @pixelhandler](https://github.com/pixelhandler/ember-slide-deck)
-  - [ember-islands by @mitchlloyd](https://github.com/mitchlloyd/ember-islands)
-  - [ember-cli-emscripten by @movableink](https://github.com/movableink/ember-cli-emscripten)
-  - [ember-observer by @katiegengler](http://emberobserver.com/) ([Github](https://github.com/emberobserver/client))
-  - [ember-component-css by @ebryn](https://github.com/ebryn/ember-component-css)
+  - [ember performance](https://github.com/pixelhandler/ember-slide-deck) by [Bill Heaton](https://twitter.com/pixelhandler)
+  - [ember-islands](https://github.com/mitchlloyd/ember-islands) by [Mitch LLoyd](https://twitter.com/too_mitch)
+  - [ember-cli-emscripten](https://github.com/movableink/ember-cli-emscripten) by [Michael Nutt](https://twitter.com/michaeln3)
+  - [ember-observer](http://emberobserver.com/) ([Github](https://github.com/emberobserver/client)) by [Katie Gengler](https://twitter.com/katiegengler)
+  - [ember-component-css](https://github.com/ebryn/ember-component-css) by [Erik Bryn](https://twitter.com/@ebryn)
 - Blogposts: None
 
 #### Physical Design by [Edward Faulkner](http://www.twitter.com/eaf4) (Github: @ef4)
@@ -172,14 +172,16 @@ A collection of links that cover what happened during EmberConf 2015.
 - [Confreaks](http://confreaks.tv/events/emberconf2015)
 
 ## Podcasts
-- [EmberConf Recap by ember.land](http://ember.land/episodes/4)
+- [EmberConf Recap](http://ember.land/episodes/4) by [ember.land](http://www.ember.land) ([Dan McClain](https://twitter.com/_danmcclain) & [Robert Jackson](https://twitter.com/rwjblue))
 
 ## Other
-- [EmberConf 2015 notes by @zurt](https://github.com/zurt/notes/blob/master/EmberConf-2015.markdown)
-- [Event Driven by @wifelette](https://leanpub.com/eventdriven/)
+- [EmberConf 2015 notes](https://github.com/zurt/notes/blob/master/EmberConf-2015.markdown) by [Kurt](https://twitter.com/zurt)
 - [Twitter highlights by seen.co](http://seen.co/event/ember-conference-2015-portland-or-2015-5286)
 - [Twitter highlights by eventifier](http://eventifier.com/event/embrcf/popular)
-- [Buy EmberConf 2015 stickers!](https://www.stickermule.com/marketplace/3663-emberconf-2015-logo)
+
+## Buy
+- [Event Driven](https://leanpub.com/eventdriven/) by [Leah Silber](http://www.twitter.com/wifelette)
+- [EmberConf 2015 stickers](https://www.stickermule.com/marketplace/3663-emberconf-2015-logo) by [Leah Silber](http://www.twitter.com/wifelette)
 
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
