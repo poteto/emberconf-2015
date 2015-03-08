@@ -134,7 +134,7 @@ A collection of links that cover what happened during EmberConf 2015.
 
 #### Building Real-time Applications With Ember by [Steve Kinney](http://www.twitter.com/stevekinney) (Github: @stevekinney)
 - Video: TBC
-- Slides: None
+- Slides: http://www.slideshare.net/stevekinney/building-realtime-applications-in-emberjs
 - Code:
   - [emberconf-chat](https://github.com/stevekinney/emberconf-chat)
   - [emberconf-twitter-stream](https://github.com/stevekinney/emberconf-twitter-stream)
