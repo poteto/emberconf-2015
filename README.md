@@ -32,7 +32,7 @@ A collection of links that cover what happened during EmberConf 2015.
 
 #### Designing for Ember Apps by [Steve Trevathan](http://www.twitter.com/strevat) (Github: @kidfribble)
 - Video: TBC
-- Slides: TBC
+- Slides: https://speakerdeck.com/kidfribble/designing-for-single-page-applications
 - Code:
   - [DockYard's Tools of the Trade](http://toolsofthetrade.dockyard.com/)
 - Blogposts: None
