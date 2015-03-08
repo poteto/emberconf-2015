@@ -177,6 +177,9 @@ A collection of links that cover what happened during EmberConf 2015.
 ## Other
 - [EmberConf 2015 notes by @zurt](https://github.com/zurt/notes/blob/master/EmberConf-2015.markdown)
 - [Event Driven by @wifelette](https://leanpub.com/eventdriven/)
+- [Twitter highlights by seen.co](http://seen.co/event/ember-conference-2015-portland-or-2015-5286)
+- [Twitter highlights by eventifier](http://eventifier.com/event/embrcf/popular)
+- [Buy EmberConf 2015 stickers!](https://www.stickermule.com/marketplace/3663-emberconf-2015-logo)
 
 ## Pull Requests
 Please feel free to submit a PR to add a link to your blog post, photos, slidedeck etc!
