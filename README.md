@@ -96,7 +96,7 @@ A collection of links that cover what happened during EmberConf 2015.
 ### Talks
 
 #### Fault Tolerant UX by [Dan Gebhardt](http://www.twitter.com/dgeb) (Github: @dgeb)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=s2awUFvA-0I
 - Slides: https://speakerdeck.com/dgeb/fault-tolerant-ux
 - Code:
   - [orbitjs](https://github.com/orbitjs/orbit.js)
