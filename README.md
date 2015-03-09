@@ -118,7 +118,8 @@ A collection of links that cover what happened during EmberConf 2015.
 - Blogposts: None
 
 #### Interaction Design with Ember 2.0 and Polymer by [Bryan Langslet](http://www.twitter.com/blangslet) (Github: @blangslet)
-- Video: TBC
+- Video
+  - [Unofficial: ember-flow demo](https://www.youtube.com/watch?v=lXWVmbs5O8A)
 - Slides: https://speakerdeck.com/blangslet/interaction-design-with-ember-2-dot-0-and-polymer
 - Code:
   - [Mobile Animations and Gestures demo app](https://github.com/blangslet/ember.js-mobile-animations-gestures)
