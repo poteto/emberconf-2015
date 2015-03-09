@@ -18,7 +18,7 @@ A collection of links that cover what happened during EmberConf 2015.
 
 #### Opening Keynote by [Yehuda Katz](http://www.twitter.com/wycats) (Github: @wycats) and [Tom Dale](http://www.twitter.com/tomdale) (Github: @tomdale)
 - Video: https://www.youtube.com/watch?&v=o12-90Dm-Qs
-- Slides: TBC
+- Slides: https://speakerdeck.com/wycats/emberconf-2015-keynote
 - Code:
   - [Demo of Glimmer in action](https://dbmonster.firebaseapp.com/) ([Github](https://github.com/emberjs/ember.js/pull/10501))
   - [Is Ember fast yet?](https://is-ember-fast-yet.firebaseapp.com/)
