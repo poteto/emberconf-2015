@@ -25,20 +25,20 @@ A collection of links that cover what happened during EmberConf 2015.
 - Blogposts: None
 
 #### Ember.js Performance by [Stefan Penner](http://www.twitter.com/stefanpenner) (Github: @stefanpenner)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=iTZxo6bSx44
 - Slides: TBC
 - Code: NA
 - Blogposts: None
 
 #### Designing for Ember Apps by [Steve Trevathan](http://www.twitter.com/strevat) (Github: @kidfribble)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=ijiNbF2Wu0E
 - Slides: https://speakerdeck.com/kidfribble/designing-for-single-page-applications
 - Code:
   - [DockYard's Tools of the Trade](http://toolsofthetrade.dockyard.com/)
 - Blogposts: None
 
 #### Hijacking Hacker News with Ember.js by [Godfrey Chan](http://www.twitter.com/chancancode) (Github: @chancancode)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=PXB93Z8azZE
 - Slides: https://speakerdeck.com/chancancode/hijacking-hacker-news-with-ember-dot-js
 - Code:
   - [HNReader](http://chancancode.github.io/hn-reader) ([Github](https://github.com/chancancode/hn-reader))
@@ -46,14 +46,14 @@ A collection of links that cover what happened during EmberConf 2015.
   - [Adapter Patterns in Ember.js](http://brewhouse.io/blog/2015/03/06/adapter-patterns-in-ember-js.html)
 
 #### The Art of Ember Deployment by [Luke Melia](http://www.twitter.com/lukemelia) (Github: @lukemelia)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=4EDetv_Rw5U
 - Slides: https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment
 - Code:
   - [ember-cli-deploy](https://github.com/ember-cli/ember-cli-deploy)
 - Blogposts: None
 
 #### Ambitious UX for Ambitious Apps by [Lauren Elizabeth Tan](http://www.twitter.com/sugarpirate_) (Github: @poteto)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=TlU0m18Pr-Y
 - Slides: https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps
 - Code:
   - [ember-cli-flash](https://github.com/poteto/ember-cli-flash)
@@ -64,20 +64,20 @@ A collection of links that cover what happened during EmberConf 2015.
   - [Ember.js and HTML5 Drag and Drop](https://medium.com/delightful-ui-for-ember-apps/ember-js-and-html5-drag-and-drop-fa5dfe478a9a)
 
 #### Bring Sanity to your Frontend Infrastructure with EmberJS by [Sam Selikoff](http://www.twitter.com/samselikoff) (Github: @samselikoff)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=iwPsNTkyCcA
 - Slides: http://www.slideshare.net/samselikoff/frontend-infrastructure
 - Code: None
 - Blogposts: None
 
 #### Dynamic Graph Composition in Ember by [Chris Henn](http://www.twitter.com/cwhnn) (Github: @chnn)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=J-LpgGqyxcI
 - Slides: https://speakerdeck.com/chnn/composing-data-visualizations-in-ember
 - Code:
   - [Composing graphics](https://github.com/chnn/composing-graphics)
 - Blogposts: None
 
 #### Test-driven Development by Example by [Toran Billups](http://www.twitter.com/toranb) (Github: @toranb)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=2b1vcg_XSR8
 - Slides: None
 - Code: TBC
 - Blogposts: None
@@ -104,7 +104,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - Blogposts: None
 
 #### Aligning Ember with Web Standards by [Matthew Beale](http://www.twitter.com/mixonic) (Github: @mixonic)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=knYeLk1EuHw
 - Slides: http://www.slideshare.net/mixonic/aligning-emberjs-with-web-standards
 - Code:
   - [Ember community survey 2015](http://www.201-created.com/ember-community-survey-2015)
@@ -112,13 +112,14 @@ A collection of links that cover what happened during EmberConf 2015.
   - [Aligning Ember.js with Web Standards](http://madhatted.com/2015/3/6/aligning-ember-js-with-web-standards-emberconf-2015)
 
 #### Growing Ember, One Tomster at a Time by [Jamie White](http://www.twitter.com/jgwhite) (Github: @jgwhite)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=xsG0gDkvDPw
 - Slides: https://speakerdeck.com/jgwhite/growing-ember-one-tomster-at-a-time
 - Code: None
 - Blogposts: None
 
 #### Interaction Design with Ember 2.0 and Polymer by [Bryan Langslet](http://www.twitter.com/blangslet) (Github: @blangslet)
 - Video
+  - Official: https://www.youtube.com/watch?v=Z8NDAiOZ8SE
   - [Unofficial: ember-flow demo](https://www.youtube.com/watch?v=lXWVmbs5O8A)
 - Slides: https://speakerdeck.com/blangslet/interaction-design-with-ember-2-dot-0-and-polymer
 - Code:
@@ -127,7 +128,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - Blogposts: None
 
 #### Building Custom Apps with ember-cli by [Brittany Storoz](http://www.twitter.com/brittanystoroz) (Github: @brittanystoroz)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=J6vPwvFdUiE
 - Slides: http://brittanystoroz.github.io/presentations/embercli-fxos/
 - Code:
   - [ember-cli-fxos](https://github.com/mozilla/ember-cli-fxos)
@@ -142,7 +143,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - Blogposts: None
 
 #### Lightning Talks
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=K4fyHxg3Ldk
 - Slides: TBC
 - Code: TBC
   - [ember performance](http://pixelhandler.com/posts/measuring-performance-with-user-timing-api-in-an-ember-application) by [Bill Heaton](https://twitter.com/pixelhandler)
@@ -155,6 +156,7 @@ A collection of links that cover what happened during EmberConf 2015.
 #### Physical Design by [Edward Faulkner](http://www.twitter.com/eaf4) (Github: @ef4)
 - Video:
   - [Unofficial](https://www.youtube.com/watch?v=WZmZYLQ96r4)
+  - [Official](https://www.youtube.com/watch?v=p8aF-7-_cE8)
 - Slides: None
 - Code:
   - [ember liquid-fire](https://github.com/ef4/liquid-fire)
@@ -162,7 +164,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - Blogposts: None
 
 #### Closing Keynote by [Chris Eppstein](http://www.twitter.com/chriseppstein) (Github: @chriseppstein)
-- Video: TBC
+- Video: https://www.youtube.com/watch?v=qWcNZ3j3y6g
 - Slides: http://www.slideshare.net/chriseppstein/ember-closing-keynote
 - Code:
   - [sass-eyeglass](https://github.com/sass-eyeglass/eyeglass)
