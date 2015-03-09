@@ -144,7 +144,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - Video: TBC
 - Slides: TBC
 - Code: TBC
-  - [ember performance](https://github.com/pixelhandler/ember-slide-deck) by [Bill Heaton](https://twitter.com/pixelhandler)
+  - [ember performance](http://pixelhandler.com/posts/measuring-performance-with-user-timing-api-in-an-ember-application) by [Bill Heaton](https://twitter.com/pixelhandler)
   - [ember-islands](https://github.com/mitchlloyd/ember-islands) by [Mitch LLoyd](https://twitter.com/too_mitch)
   - [ember-cli-emscripten](https://github.com/movableink/ember-cli-emscripten) by [Michael Nutt](https://twitter.com/michaeln3)
   - [ember-observer](http://emberobserver.com/) ([Github](https://github.com/emberobserver/client)) by [Katie Gengler](https://twitter.com/katiegengler)
