@@ -13,6 +13,7 @@ A collection of links that cover what happened during EmberConf 2015.
 - [Morning photos](http://viewer.cloudhdr.com/galleries/30fb94f4-c1d4-11e4-a2bc-4a1a5c3c150e/gallery-members) by [Jeremy Green](https://twitter.com/jagthedrummer)
 - [Afternoon photos](http://viewer.cloudhdr.com/galleries/f6550716-c1f3-11e4-8182-4a1a5c3c150e/gallery-members) by [Jeremy Green](https://twitter.com/jagthedrummer)
 - [All day photos](https://www.dropbox.com/sh/x73xg5jffuvyosm/AADDWXcLZSdfOsxA266jZFXua?dl=0) by [Tracy Lee](https://twitter.com/ladyleet)
+- [Speaker photos](https://www.flickr.com/photos/wintermeyer/sets/72157651246942191/) by [Stefan Wintermeyer](https://twitter.com/wintermeyer)
 
 ### Talks
 
