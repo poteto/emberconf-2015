@@ -27,7 +27,7 @@ A collection of links that cover what happened during EmberConf 2015.
 
 #### Ember.js Performance by [Stefan Penner](http://www.twitter.com/stefanpenner) (Github: @stefanpenner)
 - Video: https://www.youtube.com/watch?v=iTZxo6bSx44
-- Slides: https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps
+- Slides: http://static.iamstef.net/ember-js-performance.pdf
 - Code: NA
 - Blogposts: None
 
